@@ -1,2 +1,2 @@
 "Usando o git"
-editando o arquivo no GitHub. 
+editando arquivo no GitHub. 
